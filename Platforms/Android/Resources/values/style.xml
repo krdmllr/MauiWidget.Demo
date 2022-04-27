@@ -1,0 +1,7 @@
+﻿<resources>
+	<style name="My.AppTheme" parent="Theme.MaterialComponents.Light.Bridge">
+        <!-- Customize your theme here. -->
+       
+</style>
+	<style name="Theme.AppWidget.AppWidgetContainer"  parent="Theme.MaterialComponents" />
+</resources>
